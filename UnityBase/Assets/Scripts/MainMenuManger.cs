@@ -13,7 +13,7 @@ public class MainMenuManger : MonoBehaviour {
 
 	public void _ExitGame(){
 
-		Application.Quit ();
+		Application.Quit();
 
 	}
 
